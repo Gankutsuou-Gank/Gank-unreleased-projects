@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Extras-stuff.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="da-garden-idle0001.png" x="0" y="0" width="140" height="13"/>
+	<SubTexture name="da-garden-selected0001.png" x="0" y="13" width="140" height="13"/>
+	<SubTexture name="sound-test-idle0001.png" x="0" y="26" width="140" height="13"/>
+	<SubTexture name="sound-test-selected0001.png" x="0" y="39" width="140" height="13"/>
+	<SubTexture name="stage-select-idle0001.png" x="0" y="52" width="140" height="13"/>
+	<SubTexture name="stage-select-selected0001.png" x="0" y="65" width="140" height="13"/>
+	<SubTexture name="visual-mode-idle0001.png" x="0" y="78" width="140" height="13"/>
+	<SubTexture name="visual-mode-selected0001.png" x="0" y="91" width="140" height="13"/>
+</TextureAtlas>
