@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="player.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PlayerJump001.png" x="0" y="40" width="40" height="40"/>
+	<SubTexture name="PlayerWalkLeft001.png" x="40" y="0" width="40" height="40"/>
+	<SubTexture name="PlayerWalkRight001.png" x="0" y="0" width="40" height="40"/>
+	<SubTexture name="PlayerIdle001.png" x="0" y="80" width="40" height="40"/>
+</TextureAtlas>

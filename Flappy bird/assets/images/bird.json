@@ -1,0 +1,42 @@
+{ "frames": {
+   "Sprite-0008 0.": {
+    "frame": { "x": 0, "y": 0, "w": 17, "h": 12 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 17, "h": 12 },
+    "sourceSize": { "w": 17, "h": 12 },
+    "duration": 100
+   },
+   "Sprite-0008 1.": {
+    "frame": { "x": 0, "y": 12, "w": 17, "h": 12 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 17, "h": 12 },
+    "sourceSize": { "w": 17, "h": 12 },
+    "duration": 100
+   },
+   "Sprite-0008 2.": {
+    "frame": { "x": 0, "y": 24, "w": 17, "h": 12 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 17, "h": 12 },
+    "sourceSize": { "w": 17, "h": 12 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9-x64",
+  "image": "D:\\flappy\\assets\\images\\bird.png",
+  "format": "RGBA8888",
+  "size": { "w": 17, "h": 36 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

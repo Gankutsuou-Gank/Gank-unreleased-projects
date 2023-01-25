@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dino.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dino-dead0001.png" x="0" y="0" width="44" height="47"/>
+	<SubTexture name="dino-duck0001.png" x="44" y="0" width="59" height="47"/>
+	<SubTexture name="dino-duck0002.png" x="103" y="0" width="59" height="47"/>
+	<SubTexture name="dino-jump0001.png" x="162" y="0" width="44" height="47"/>
+	<SubTexture name="dino-running0001.png" x="206" y="0" width="44" height="47"/>
+	<SubTexture name="dino-running0002.png" x="0" y="47" width="44" height="47"/>
+</TextureAtlas>

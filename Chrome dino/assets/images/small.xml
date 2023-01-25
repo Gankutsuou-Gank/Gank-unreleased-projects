@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="small">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="small001" x="0" y="0" width="36" height="35"/>
+	<SubTexture name="small002" x="36" y="0" width="17" height="35"/>
+	<SubTexture name="small003" x="53" y="0" width="17" height="35"/>
+	<SubTexture name="small004" x="70" y="0" width="17" height="35"/>
+	<SubTexture name="small005" x="87" y="0" width="17" height="35"/>
+</TextureAtlas>
