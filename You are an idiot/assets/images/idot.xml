@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="idot">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idiot001" x="0" y="0" width="1265" height="943"/>
+	<SubTexture name="idiot002" x="0" y="0" width="1265" height="943"/>
+	<SubTexture name="idiot003" x="0" y="0" width="1265" height="943"/>
+	<SubTexture name="idiot004" x="0" y="943" width="1265" height="943"/>
+	<SubTexture name="idiot005" x="0" y="943" width="1265" height="943"/>
+	<SubTexture name="idiot006" x="0" y="943" width="1265" height="943"/>
+</TextureAtlas>
