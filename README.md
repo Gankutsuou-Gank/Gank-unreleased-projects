@@ -9,3 +9,6 @@ the code is really old/bad so I don't recommend looking at it.
 - [Text to speech]()
 - [Sonic CD menu]()
 - [You are an idiot](https://github.com/Gankutsuou-Gank/Gank-unreleased-projects/tree/main/You%20are%20an%20idiot)
+
+# Credits 
+jobf - [parallax shader](https://github.com/jobf/haxeflixel-retro-scrolling-shader)
